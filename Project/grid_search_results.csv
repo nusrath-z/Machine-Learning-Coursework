@@ -1,0 +1,4 @@
+lr,momentum,optimizer,val_acc
+0.001,0.9,SGD,0.85
+0.01,0.9,SGD,0.995
+0.1,0.99,Adam,0.87
