@@ -1,0 +1,1 @@
+To run the code, just upload the picture as bird.png and run the codes.
