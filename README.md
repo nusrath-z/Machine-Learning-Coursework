@@ -2,13 +2,13 @@
 
 This repository showcases my experience in machine learning through various assignments that I've worked on during my coursework.
 These projects cover key areas including 
--classification
--regression
--neural networks
--transfer learning
--time-series forecasting
--image processing
--clustering. 
+- classification
+- regression
+- neural networks
+- transfer learning
+- time-series forecasting
+- image processing
+- clustering. 
 
 ## Assignments:
 
