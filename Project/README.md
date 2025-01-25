@@ -30,3 +30,15 @@ The primary objective of this project is to:
 - **Libraries**: PyTorch, scikit-learn, Matplotlib, Pandas, NumPy
 - **Techniques**: Dimensionality Reduction, Model Training, Feature Visualization, Model Evaluation
 
+  ## Results:
+- **Training Accuracy/Loss Curves**: Visualizations of training accuracy and loss for each model.
+- **t-SNE Visualizations**: Feature embeddings visualized using t-SNE for the datasets.
+- **Classification Accuracy Metrics**: The performance evaluation metrics for each dataset, including accuracy scores and confusion matrices.
+
+## Project Team:
+- **Mhd Eyad**
+- **Hisham**
+- **Omar**
+- **Nour**
+- **Nusrath**
+
