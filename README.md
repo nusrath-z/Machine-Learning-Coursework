@@ -8,7 +8,12 @@ These projects cover key areas including
 - transfer learning
 - time-series forecasting
 - image processing
-- clustering. 
+- clustering.
+
+## Project:
+- Fine-tuned ResNet18 to improve cancer classification accuracy from 95% to 99%
+- Applied transfer learning to reduce training time by 30%; visualized results with t-SNE
+
 
 ## Assignments:
 
@@ -49,3 +54,5 @@ These projects cover key areas including
   - Apply K-means clustering (with K=5 and K=10) to the image and visualize centroids.
   - Recolor the image using the cluster centroids and plot the results.
   - Evaluate the performance by computing the Mean Squared Error (MSE) between the original and recolored images.
+ 
+    
